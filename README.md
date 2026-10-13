@@ -1,6 +1,4 @@
-# pydbzengine
-
-Playing around with [pydbzengine](https://github.com/memiiso/pydbzengine).
+# Playing around with [pydbzengine](https://github.com/memiiso/pydbzengine)
 
 ## Quickstart
 
